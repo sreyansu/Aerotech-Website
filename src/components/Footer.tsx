@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Plane, Instagram, Linkedin, Mail, X } from 'lucide-react';
-import logo from 'C:/Users/SREYANSU/Videos/project/src/images/logo.png';
+import logo from 'src/images/logo.png';
 
 const Footer = () => {
   const quickLinks = [
