@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Menu, X } from 'lucide-react';
-import logo from 'C:/Users/SREYANSU/Videos/project/src/images/logo.png'; // Import your uploaded logo
+import logo from 'src/images/logo.png'; // Import your uploaded logo
 import 'C:/Users/SREYANSU/Videos/project/src/fonts/fonts.css';
 
 const Navbar = () => {
