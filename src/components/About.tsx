@@ -1,6 +1,6 @@
 import React from 'react';
 import { Target, Rocket, Cpu, Code, Users, Video, PenTool, DollarSign } from 'lucide-react';
-import 'C:/Users/SREYANSU/Videos/project/src/fonts/fonts.css';
+import 'src/fonts/fonts.css';
 
 const About = () => {
   const technicalDomains = [
